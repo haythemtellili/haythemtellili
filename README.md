@@ -10,8 +10,9 @@ My name is Haythem, I'm Data Scientist, Kaggle competitions expert and Top rated
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/haythem-tellili-5b919616a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@haythemtellili"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/haythemtellili5"><img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/adldotori" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
+![adldotori](https://road-to-kaggle-grandmaster.vercel.app/api/simple/adldotori)
 ## ⚡ Latest article
 
 <!-- BLOG-POST-LIST:START -->
