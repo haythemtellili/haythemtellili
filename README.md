@@ -12,6 +12,7 @@ My name is Haythem, I'm Data Scientist, Kaggle competitions expert and Top rated
   <a href="https://medium.com/@haythemtellili"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.kaggle.com/haythemtellili5"><img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/adldotori" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/haythemtellili5/competition/light)
 
 ## ⚡ Latest article
@@ -30,9 +31,6 @@ My name is Haythem, I'm Data Scientist, Kaggle competitions expert and Top rated
  - 🥇 [2nd Place in the UMOJAHACK Africa 2020](https://zindi.africa/competitions/umojahack-1-saeon-identifying-marine-invertebrates)
 <!-- BLOG-POST-LIST:END -->
 
-<p align="center">
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/haythemtellili5/competition/light)
-</p>
 ## ⚡  Technologies I use 
 
 <br>
