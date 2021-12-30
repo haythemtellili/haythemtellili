@@ -29,8 +29,9 @@ My name is Haythem, I'm Data Scientist, Kaggle competitions expert and Top rated
  - 🥇 [2nd Place in the UMOJAHACK Africa 2020](https://zindi.africa/competitions/umojahack-1-saeon-identifying-marine-invertebrates)
 <!-- BLOG-POST-LIST:END -->
 <p align="center">
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/haythemtellili5/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/haythemtellili5/competition/light)
 </p>
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/haythemtellili5/competition/light)
 ## ⚡  Technologies I use 
 
 <br>
