@@ -22,7 +22,9 @@ My name is Haythem, I'm Data Scientist, Kaggle competitions expert and Top rated
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡  Honors
+<p align="center">
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/haythemtellili5/competition/light)
+</p>
 <!-- BLOG-POST-LIST:START -->
  - 🥇 [Silver medal in Jigsaw Multilingual Toxic Comment Classification (Top 5%)](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification)
  - 🥇 [Silver medal in the Tweet Sentiment Extraction (Top 3%)](https://www.kaggle.com/c/tweet-sentiment-extraction)
