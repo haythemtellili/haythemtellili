@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>
-Hi there 👋!
-</p>
-<p>
 My name is Haythem, I'm Data Scientist, Kaggle competitions expert and Top rated Upwork freelancer who is very obsessed with automation and reproducibility and    loves solving business related problems with the help of data and analytics.
 </p>
 
