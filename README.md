@@ -13,8 +13,6 @@ My name is Haythem, I'm Data Scientist, Kaggle competitions expert and Top rated
   <a href="https://www.kaggle.com/haythemtellili5"><img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/adldotori" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/haythemtellili5/competition/light)
-
 ## ⚡ Latest article
 
 <!-- BLOG-POST-LIST:START -->
