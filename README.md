@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p>
-My name is Haythem, I'm Data Scientist, Kaggle competitions expert and Top rated Upwork freelancer who loves solving business related problems with the help of data and analytics.
+My name is Haythem, I'm a Machine Learning Engineer, Kaggle competitions expert and Top rated Upwork freelancer who loves solving business related problems with the help of data and analytics.
 </p>
 
 <p>
