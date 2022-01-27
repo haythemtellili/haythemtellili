@@ -17,6 +17,7 @@ My name is Haythem, I'm a Machine Learning Engineer, Kaggle competitions expert 
 
 <!-- BLOG-POST-LIST:START -->
  - 🔥 [Optimization of the life cycle of an ML project using MLflow and DVC](https://medium.com/@haythemtellili/optimization-of-the-life-cycle-of-an-ml-project-using-mlflow-and-dvc-646553985ca0)
+ - 🔥 [End to End ML pipelines with MLflow](https://medium.com/@haythemtellili/end-to-end-ml-pipelines-with-mlflow-projects-63a11baa2dd1)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡  Honors
