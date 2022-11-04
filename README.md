@@ -1,7 +1,9 @@
 ### Hi there 👋
 <p>
 My name is Haythem, I'm a Machine Learning Engineer and Kaggle competitions expert who loves solving business related problems and working on end to end projects.
-In my free time, I enjoy writing medium articles, participating in kaggle competitions, trying new skills, and playing tennis.
+</p>
+<p>
+  In my free time, I enjoy writing medium articles, participating in kaggle competitions, learning new skills, and playing tennis.
 </p>
 <p>
 💡 Skills: Mahcine Learning, MLOps, Natural language processing, Data Analysis, Computer Vision. 
