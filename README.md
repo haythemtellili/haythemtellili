@@ -1,10 +1,10 @@
 ### Hi there 👋
 <p>
-My name is Haythem, I'm a Machine Learning Engineer, Kaggle competitions expert and Top rated Upwork freelancer who loves solving business related problems with the help of data and analytics.
+My name is Haythem, I'm a Machine Learning Engineer and Kaggle competitions expert who loves solving business related problems and working on end to end projects.
 </p>
 
 <p>
-💡 Skills: MLOps, Problem solving, Natural language processing, Data Analysis, Computer vision. 
+💡 Skills: Mahcine Learning, MLOps, Natural language processing, Data Analysis, Computer Vision. 
 </p>
 
 <p align="center">
